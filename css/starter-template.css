@@ -1,0 +1,36 @@
+body {
+  padding-top: 50px;
+}
+
+p {
+	margin-bottom: 0px;
+	font-size: 13px;
+
+}
+hr.garis {
+	margin-top: 5px;
+	border-top: 4px double #8c8b8b;
+	text-align: center;
+}
+hr.garis:after {
+	display: inline-block;
+	position: relative;
+	background: #f0f0f0;
+	color: #8c8b8b;
+}
+.starter-template {
+  padding: 0px 0px;
+  text-align: center;
+  margin-bottom: 2px;
+}
+.lap {
+	text-transform: uppercase;
+	margin-bottom: 1px;
+	font-weight: bold;
+}
+.lead_lap {
+  margin-bottom: 1px;
+  font-size: 20px;
+  font-weight: 300;
+  font-weight: bold;
+}
